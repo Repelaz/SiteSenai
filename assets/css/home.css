@@ -154,7 +154,7 @@ h2:nth-child(1) {
 }
 
 footer {
-    background-color: #b86060;
+    background: #BB4848;
     padding-top: 25px;
     padding-bottom: 5px;
     text-align: center;
@@ -193,5 +193,5 @@ footer {
     text-align: center;
     padding: 2px;
     color: white;
-    background-color: #F28383  
+    background-color: #F28383; 
 }
